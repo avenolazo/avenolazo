@@ -15,7 +15,7 @@
   />
 <strong><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;About Me</strong>
 
-<img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=avenolazo&include_all_time_commits=true&title_color=00ff6a&count_private=true&text_color=00ff6a&icon_color=00ff6a&bg_color=000000&border_color=00ff6a&border_radius=8&hide=contribs"/>
+<img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats-avenolazo.vercel.app/api?username=avenolazo&include_all_time_commits=true&title_color=00ff6a&count_private=true&text_color=00ff6a&icon_color=00ff6a&bg_color=000000&border_color=00ff6a&border_radius=8&hide=contribs"/>
 
 <p align="center">
 I’ve been into programming since I was 16. I am self-taught, curious, and always building. These days, I work on cross-platform stuff and try to solve real-world problems with code.
@@ -33,7 +33,7 @@ I’ve been into programming since I was 16. I am self-taught, curious, and alwa
 <a href="https://www.linkedin.com/in/avenolazo/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&labelColor=000000&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMzk" alt="LinkedIn" />
 </a>
-<!--   <a href="https://leetcode.com/johnraivenolazo/" target="_blank">
+<!--   <a href="https://leetcode.com/avenolazo/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14" alt="LeetCode" />
   </a> -->
 </p>
@@ -123,8 +123,8 @@ I’ve been into programming since I was 16. I am self-taught, curious, and alwa
 </div>
 <br/> -->
 <p align="center">
-  <img src="https://github-readme-streak-stats-johnraivenolazo.vercel.app/?user=avenolazo&theme=dark&border=00ff6a&ring=00ff6a&currStreakLabel=00ff6a&fire=00ff6a&sideLabels=00ff6a&sideNums=00ff6a&dates=00ff6a&background=000000&border_radius=10" alt="GitHub Streak" height="165"/>
-  <img src="https://github-readme-stats-johnraivenolazo.vercel.app/api/top-langs/?username=avenolazo&layout=compact&hide=html,css,scss&text_color=00ff6a&title_color=00ff6a&icon_color=00ff6a&bg_color=000000&border_color=00ff6a&border_radius=10" alt="Top Languages" height="195"/>
+  <img src="https://github-readme-streak-stats-avenolazo.vercel.app/?user=avenolazo&theme=dark&border=00ff6a&ring=00ff6a&currStreakLabel=00ff6a&fire=00ff6a&sideLabels=00ff6a&sideNums=00ff6a&dates=00ff6a&background=000000&border_radius=10" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats-avenolazo.vercel.app/api/top-langs/?username=avenolazo&layout=compact&hide=html,css,scss&text_color=00ff6a&title_color=00ff6a&icon_color=00ff6a&bg_color=000000&border_color=00ff6a&border_radius=10" alt="Top Languages" height="195"/>
 </p>
 
   <img
