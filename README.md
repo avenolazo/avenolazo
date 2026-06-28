@@ -1,6 +1,6 @@
 <p align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
-  <img src="https://komarev.com/ghpvc/?username=johnraivenolazo&label=Profile+Views&color=000000&style=plastic" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=avenolazo&base=10264&label=Profile+Views&color=000000&style=plastic" alt="profile-views" />
   <img src="https://img.shields.io/github/followers/johnraivenolazo?color=00ff6a&label=Followers&style=plastic" alt="followers" />
   <img src="https://img.shields.io/github/stars/johnraivenolazo?color=000000&label=Stars&style=plastic" alt="stars" />
   <img src="https://img.shields.io/github/last-commit/johnraivenolazo/johnraivenolazo?color=00ff6a&label=Last+Update&style=plastic" alt="last-commit" />
