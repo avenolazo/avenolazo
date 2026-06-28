@@ -30,7 +30,7 @@ I’ve been into programming since I was 16. I am self-taught, curious, and alwa
   <a href="mailto:johnraivenolazo@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email" />
   </a>
-<a href="https://www.linkedin.com/in/johnraivenolazo/" target="_blank">
+<a href="https://www.linkedin.com/in/avenolazo/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&labelColor=000000&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMzk" alt="LinkedIn" />
 </a>
 <!--   <a href="https://leetcode.com/johnraivenolazo/" target="_blank">
@@ -102,7 +102,7 @@ I’ve been into programming since I was 16. I am self-taught, curious, and alwa
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" alt="Divider – No System Is Safe"
     style="width:100%; display:block;" />
 
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/JohnRaivenOlazo/JohnRaivenOlazo/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/avenolazo/avenolazo/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <!-- <h2 align="center">📜 Certifications 📜</h2>
@@ -123,8 +123,8 @@ I’ve been into programming since I was 16. I am self-taught, curious, and alwa
 </div>
 <br/> -->
 <p align="center">
-  <img src="https://github-readme-streak-stats-johnraivenolazo.vercel.app/?user=johnraivenolazo&theme=dark&border=00ff6a&ring=00ff6a&currStreakLabel=00ff6a&fire=00ff6a&sideLabels=00ff6a&sideNums=00ff6a&dates=00ff6a&background=000000&border_radius=10" alt="GitHub Streak" height="165"/>
-  <img src="https://github-readme-stats-johnraivenolazo.vercel.app/api/top-langs/?username=johnraivenolazo&layout=compact&hide=html,css,scss&text_color=00ff6a&title_color=00ff6a&icon_color=00ff6a&bg_color=000000&border_color=00ff6a&border_radius=10" alt="Top Languages" height="195"/>
+  <img src="https://github-readme-streak-stats-johnraivenolazo.vercel.app/?user=avenolazo&theme=dark&border=00ff6a&ring=00ff6a&currStreakLabel=00ff6a&fire=00ff6a&sideLabels=00ff6a&sideNums=00ff6a&dates=00ff6a&background=000000&border_radius=10" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats-johnraivenolazo.vercel.app/api/top-langs/?username=avenolazo&layout=compact&hide=html,css,scss&text_color=00ff6a&title_color=00ff6a&icon_color=00ff6a&bg_color=000000&border_color=00ff6a&border_radius=10" alt="Top Languages" height="195"/>
 </p>
 
   <img
