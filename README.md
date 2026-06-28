@@ -1,12 +1,12 @@
 <p align="center">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
   <img src="https://komarev.com/ghpvc/?username=avenolazo&base=10264&label=Profile+Views&color=000000&style=plastic" alt="profile-views" />
-  <img src="https://img.shields.io/github/followers/johnraivenolazo?color=00ff6a&label=Followers&style=plastic" alt="followers" />
-  <img src="https://img.shields.io/github/stars/johnraivenolazo?color=000000&label=Stars&style=plastic" alt="stars" />
-  <img src="https://img.shields.io/github/last-commit/johnraivenolazo/johnraivenolazo?color=00ff6a&label=Last+Update&style=plastic" alt="last-commit" />
+  <img src="https://img.shields.io/github/followers/avenolazo?color=00ff6a&label=Followers&style=plastic" alt="followers" />
+  <img src="https://img.shields.io/github/stars/avenolazo?color=000000&label=Stars&style=plastic" alt="stars" />
+  <img src="https://img.shields.io/github/last-commit/avenolazo/avenolazo?color=00ff6a&label=Last+Update&style=plastic" alt="last-commit" />
 </p>
 
-<img src="https://raw.githubusercontent.com/JohnRaivenOlazo/JohnRaivenOlazo/main/banner.gif" width="100%">
+<img src="https://raw.githubusercontent.com/avenolazo/avenolazo/main/banner.gif" width="100%">
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=39FF14&size=20&center=true&vCenter=true&width=700&height=100&duration=4000&lines=initializing+profile...;based+in+🇵🇭;status:+self-taught,+always+building;started+@+16...+never+stopped;mission:+solve+problems+with+code" /></p>
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=24&text=⚠️+No+System+Is+Safe+⚠️&fontColor=39FF14&fontSize=14"
