@@ -21,7 +21,7 @@
 I’ve been into programming since I was 16. I am self-taught, curious, and always building. These days, I work on cross-platform stuff and try to solve real-world problems with code.
 </p>
 
-<p align="center">I just really love programming. Always have.</strong></p>
+<p align="center">I love programming. Always have.</strong></p>
 
 <p align="center">
   <a href="https://johnraivenolazo.tech" target="_blank">
