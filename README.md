@@ -15,7 +15,7 @@
   />
 <strong><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;About Me</strong>
 
-<img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=johnraivenolazo&include_all_time_commits=true&title_color=00ff6a&count_private=true&text_color=00ff6a&icon_color=00ff6a&bg_color=000000&border_color=00ff6a&border_radius=8&hide=contribs"/>
+<img align="right" width="420px" alt="GitHub Stats" src="https://github-readme-stats-johnraivenolazo.vercel.app/api?username=avenolazo&include_all_time_commits=true&title_color=00ff6a&count_private=true&text_color=00ff6a&icon_color=00ff6a&bg_color=000000&border_color=00ff6a&border_radius=8&hide=contribs"/>
 
 <p align="center">
 I’ve been into programming since I was 16. I am self-taught, curious, and always building. These days, I work on cross-platform stuff and try to solve real-world problems with code.
@@ -24,7 +24,7 @@ I’ve been into programming since I was 16. I am self-taught, curious, and alwa
 <p align="center">I love programming. Always have.</strong></p>
 
 <p align="center">
-  <a href="https://johnraivenolazo.tech" target="_blank">
+  <a href="https://avenolazo.pages.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=39FF14" alt="Portfolio" />
   </a>
   <a href="mailto:johnraivenolazo@gmail.com">
