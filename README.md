@@ -6,7 +6,9 @@
   <img src="https://img.shields.io/github/last-commit/avenolazo/avenolazo?color=00ff6a&label=Last+Update&style=plastic" alt="last-commit" />
 </p>
 
-<img src="https://raw.githubusercontent.com/avenolazo/avenolazo/main/banner.gif" width="100%">
+<img width="100%" height="199%" alt="me" src="https://github.com/user-attachments/assets/4c592fdf-00f7-46a7-95b1-356f5e84a762" />
+
+
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=39FF14&size=20&center=true&vCenter=true&width=700&height=100&duration=4000&lines=initializing+profile...;based+in+🇵🇭;status:+self-taught,+always+building;started+@+16...+never+stopped;mission:+solve+problems+with+code" /></p>
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=24&text=⚠️+No+System+Is+Safe+⚠️&fontColor=39FF14&fontSize=14"
