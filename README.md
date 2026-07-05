@@ -50,7 +50,7 @@ I’ve been into programming since I was 16. I am self-taught, curious, and alwa
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="55" alt="Lua" />
 </div>
 <div align="center">
-  <table>
+  <!-- <table>
     <tr>
       <th><img src="https://img.shields.io/badge/Domain-00ff6a?style=for-the-badge&logoColor=00ff6a&color=000000"></th>
       <th><img src="https://img.shields.io/badge/Stack-00ff6a?style=for-the-badge&logoColor=00ff6a&color=000000"></th>
@@ -99,10 +99,10 @@ I’ve been into programming since I was 16. I am self-taught, curious, and alwa
       <td><img src="https://img.shields.io/badge/🧰 Tooling-00ff6a?style=for-the-badge&color=000000"></td>
       <td><code>TypeScript</code> <code>PNPM</code> <code>Bun</code> <code>ESLint</code> <code>Prettier</code> <code>Ruff</code> <code>Black</code> <code>Husky</code> <code>PostCSS</code> <code>Turbopack</code></td>
     </tr>
-  </table>
+  </table> -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" alt="Divider – No System Is Safe"
-    style="width:100%; display:block;" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=header" alt="Divider – No System Is Safe"
+    style="width:100%; display:block;" /> -->
 
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/avenolazo/avenolazo/output/github-contribution-grid-snake-dark.svg" />
 </div>
