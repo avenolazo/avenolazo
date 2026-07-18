@@ -29,7 +29,7 @@ I’ve been into programming since I was 16. I am self-taught, curious, and alwa
   <a href="https://avenolazo.pages.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=todoist&logoColor=39FF14" alt="Portfolio" />
   </a>
-  <a href="mailto:johnraivenolazo@gmail.com">
+  <a href="mailto:avenolazo@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email" />
   </a>
 <a href="https://www.linkedin.com/in/avenolazo/" target="_blank">
